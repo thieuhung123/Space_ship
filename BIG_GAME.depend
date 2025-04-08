@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1744049471 source:d:\thieu hung\big_game\main.cpp
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+	"control.h"
+	"play.h"
+	"check.h"
+	"attack.h"
+	"ship.h"
+	"meteorite.h"
+
+1743339732 source:d:\thieu hung\big_game\initialize.c
+
+1744037657 source:d:\thieu hung\big_game\initialize.cpp
+	"initialize.h"
+
+1744037657 d:\thieu hung\big_game\initialize.h
+	"Header.h"
+	"declare.h"
+
+1743579239 d:\thieu hung\big_game\header.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<SDL_mixer.h>
+
+1743612145 d:\thieu hung\big_game\declare.h
+	"Header.h"
+
+1743341901 d:\thieu hung\big_game\initialize.cpp
+	"initialize.h"
+
+1743350467 source:d:\thieu hung\big_game\declare.cpp
+	"declare.h"
+
+1744049561 source:d:\thieu hung\big_game\control.cpp
+	"control.h"
+
+1744048893 d:\thieu hung\big_game\control.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1743352590 source:d:\thieu hung\big_game\play.cpp
+	"play.h"
+
+1743352595 d:\thieu hung\big_game\play.h
+	"Header.h"
+	"declare.h"
+
+1743352771 source:d:\thieu hung\big_game\check.cpp
+	"check.h"
+
+1743352784 d:\thieu hung\big_game\check.h
+	"Header.h"
+	"declare.h"
+
+1743612118 source:d:\thieu hung\big_game\attack.cpp
+	"attack.h"
+
+1743612101 d:\thieu hung\big_game\attack.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1743353000 source:d:\thieu hung\big_game\ship.cpp
+	"ship.h"
+
+1743353000 d:\thieu hung\big_game\ship.h
+	"Header.h"
+	"declare.h"
+
+1743353150 d:\thieu hung\big_game\meteorite.h
+	"Header.h"
+	"declare.h"
+
+1744047028 source:d:\thieu hung\big_game\meteorite.cpp
+	"meteorite.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\attack.cpp
+	"attack.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\attack.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\header.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<SDL_mixer.h>
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\declare.h
+	"Header.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\initialize.h
+	"Header.h"
+	"declare.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\check.cpp
+	"check.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\check.h
+	"Header.h"
+	"declare.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\control.cpp
+	"control.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\control.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\initialize.cpp
+	"initialize.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\main.cpp
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+	"control.h"
+	"play.h"
+	"check.h"
+	"attack.h"
+	"ship.h"
+	"meteorite.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\play.h
+	"Header.h"
+	"declare.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\ship.h
+	"Header.h"
+	"declare.h"
+
+1744081821 c:\users\admin\documents\zalo received files\big_game\meteorite.h
+	"Header.h"
+	"declare.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\meteorite.cpp
+	"meteorite.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\play.cpp
+	"play.h"
+
+1744081821 source:c:\users\admin\documents\zalo received files\big_game\ship.cpp
+	"ship.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\attack.cpp
+	"attack.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\attack.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\header.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<SDL_mixer.h>
+
+1744102068 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\declare.h
+	"Header.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\initialize.h
+	"Header.h"
+	"declare.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\check.cpp
+	"check.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\check.h
+	"Header.h"
+	"declare.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\control.cpp
+	"control.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\control.h
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\initialize.cpp
+	"initialize.h"
+
+1744102439 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\main.cpp
+	"Header.h"
+	"declare.h"
+	"initialize.h"
+	"control.h"
+	"play.h"
+	"check.h"
+	"attack.h"
+	"ship.h"
+	"meteorite.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\play.h
+	"Header.h"
+	"declare.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\ship.h
+	"Header.h"
+	"declare.h"
+
+1744081821 c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\meteorite.h
+	"Header.h"
+	"declare.h"
+
+1744097834 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\meteorite.cpp
+	"meteorite.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\play.cpp
+	"play.h"
+
+1744081821 source:c:\users\admin\onedrive - vnu.edu.vn\documents\big_game\ship.cpp
+	"ship.h"
+
